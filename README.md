@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # 🌤️ Glassmorphism Weather Dashboard
 
 A sleek, real-time weather dashboard built using **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Axios**, 
@@ -31,3 +32,7 @@ BY HAriom Patidar
  
 
  
+=======
+# Weather-Dashboard
+Weather Dashboard Tech Stack: HTML, CSS, JavaScript, Open Weather API Description: Created a real-time weather dashboard that fetches live weather data based on user location. Features include temperature, humidity, wind speed, and 5- day forecasts with a sleek and interactive UI.
+>>>>>>> 6b6b6d09aa2ee593ce8864963ed6b8be10fe5074
